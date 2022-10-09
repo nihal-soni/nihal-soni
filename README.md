@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **web development,open source project**
 
-- 💬 Ask me about **Related Web development, Open source**
+- 💬 Ask me about ** Web development, Open source , **
 
 - 📫 How to reach me **nihalsoni0523@gmail.com**
 
