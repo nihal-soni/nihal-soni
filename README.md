@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Building Personal PortFoLio Website**
 
-- 🌱 I’m currently learning **Javascript,Bootstrap, Node js, Express js,DOM(Documentation Object Model)**
+- 🌱 I’m currently learning **Javascript, Node js, Express js,DOM(Documentation Object Model)**
 
 - 👯 I’m looking to collaborate on **web development,open source project**
 
