@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/nihal-soni/nihal-soni/blob/main/Me%20(4).png" />
-<h1 align="center">Hi 👋, I'm Nihal soni.. </h1>
+<h1 align="center">Hi 👋, I'm Nihal soni </h1>
 <h3 align="center">A passionate Student From Satna-(India) (LEARNING MERN STACK DEVELOPMENT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-soni&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-soni" /> </p>
@@ -14,6 +14,8 @@
 - 🌱 I’m currently learning **Javascript, Node js, Express js,DOM(Documentation Object Model)**
 
 - 👯 I’m looking to collaborate on **web development,open source project**
+
+-  I'm looking for an internship to learn by doing.
 
 - 💬 Ask me about ** Web development, Open source , events**
 
