@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **nihalsoni0523@gmail.com**
 
-- ⚡ Fun fact **I love watching marvel , and playing GTA**
+- ⚡ Fun fact **I love watching movies related to buisness - stock market - startup , and playing GTA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
