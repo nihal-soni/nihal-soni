@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **PortFolio**
 
-- 🌱 I’m currently learning **React, Next js , Computer-Nteworking**
+- 🌱 I’m currently learning **React/Next js , Computer-Nteworking**
 
 - 👯 I’m looking to collaborate on **Linkedin**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development **
 
 - 📫 How to reach me **nihalsoni0523@gmail.com**
 
