@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihal-soni" alt="nihal-soni" /></a> </p>
 
-- 🔭 I’m currently working on **PortFolio**
+- 🔭 I’m currently working on **PortFolio-website**
 
 - 🌱 I’m currently learning **React/Next js , Computer-Nteworking**
 
