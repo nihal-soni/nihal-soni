@@ -12,15 +12,6 @@
 
 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Vikash-8090-Yadav)
-
-[![Profile Visitors](https://komarev.com/ghpvc/?username=vikash-8090-yadav&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Vikash-8090-Yadav)
-[![Twitter followers](https://img.shields.io/twitter/follow/vikash_8090_b?style=social)](https://twitter.com/intent/follow?screen_name=vikash_8090_b)
-[![Github followers](https://img.shields.io/github/followers/Vikash-8090-Yadav?style=social)](https://github.com/Vikash-8090-Yadav)
-<!-- <p align="left"> <a href="https://twitter.com/vikash_8090_b" target="blank"><img src="https://img.shields.io/twitter/follow/vikash_8090_b?logo=twitter&style=for-the-badge" alt="vikash_8090_b" /></a> </p> -->
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikash-8090-yadav" alt="vikash-8090-yadav" /></a> </p> -->
-
 <h1> About Me 👦</h1>
 
 - 🌱 I’m currently working on Personal Portfolio .
@@ -44,21 +35,7 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/dj.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<br>
-<h2 align="center">Shout Out to latest Follower's [in Progress] 🌟</h2>
 
-<p align="center">
-
-<!-- FOLLOWERS_SECTION_START -->
-| Follower | Username |
-| --- | --- |
-| [![daipeihust](https://avatars.githubusercontent.com/u/13344830?v=4&s=50)](https://github.com/daipeihust) | daipeihust |
-| [![gmaheshraju](https://avatars.githubusercontent.com/u/21260123?v=4&s=50)](https://github.com/gmaheshraju) | gmaheshraju |
-| [![camilitwo](https://avatars.githubusercontent.com/u/22084703?v=4&s=50)](https://github.com/camilitwo) | camilitwo |<!-- FOLLOWERS_SECTION_END -->
-
-</p>
-
-<br>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <p align="center">
