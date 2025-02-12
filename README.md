@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **nihalsoni0523@gmail.com**
 
-- ⚡ Fun fact **I love watching movies related- Stock market, Business and love playing GTA.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
