@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **** Html , Css , Javascript , React , Typescript , Nextjs , Mongodb****
 
-- 📫 How to reach me **nihalsoni0523@gmail.com**
+- 📫 How to reach me **nihal.devv23@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
