@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-soni&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-soni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihal-soni" alt="nihal-soni" /></a> </p>
-
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning ****MERN-STACK-DEVELOPMENT****
-
-- 💬 Ask me about **** Html , Css , Javascript , React , Typescript , Nextjs , Mongodb****
+- 🌱 I’m currently learning ** React , typescipt ,**
 
 - 📫 How to reach me **nihal.devv23@gmail.com**
 
