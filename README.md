@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-soni&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-soni" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
-
-- 🌱 I’m currently learning ** React , typescipt ,**
-
 - 📫 How to reach me **nihal.devv23@gmail.com**
 
 
