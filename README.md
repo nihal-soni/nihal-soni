@@ -85,12 +85,14 @@ I love coding.
 
 ## Github Stats
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihal-soni&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="nihal-soni" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=nihal-soni&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="streak graph" />
-</div>
-<div style="margin-top: 10px; display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihal-soni&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="nihal-soni" width="49%" />
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
+  GitHub Stats:
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihal-soni&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihal-soni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
 
